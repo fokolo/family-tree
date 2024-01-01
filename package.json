@@ -11,14 +11,12 @@
     "format": "npx prettier --write \"src/**/*.{js,ts,tsx}\""
   },
   "dependencies": {
-    "@dagrejs/dagre": "^1.0.4",
     "lodash": "^4.17.21",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "reactflow": "^11.10.1"
   },
   "devDependencies": {
-    "@types/dagre": "^0.7.52",
     "@types/lodash": "^4.14.202",
     "@types/react": "^18.2.37",
     "@types/react-dom": "^18.2.15",
