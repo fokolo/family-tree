@@ -15,7 +15,6 @@ export type FamilyMemberNodeData = {
     imageUrl?: string;
     isRoot?: boolean;
     relationToSelected?: string | null;
-    status: string;
     onVisibilityChange: (isVisible: boolean) => void;
     isHidden?: boolean;
 };
